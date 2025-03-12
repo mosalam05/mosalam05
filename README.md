@@ -30,13 +30,14 @@ Socials
 
 My GitHub Stats
 -------------------
-<p align="center">
-  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="200" height="38" /> </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&theme=radical" /> </a>
   <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalam05&layout=compact&theme=radical" /> </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="200" height="38" /> </a>
 </p>
 
 <div align="center">
