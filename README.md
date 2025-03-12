@@ -39,6 +39,7 @@ My GitHub Stats
 <p align="center">
   <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="200" height="38" /> </a>
 </p>
+<hr>
 
 <div align="center">
   <h3>Support Me</h3>
