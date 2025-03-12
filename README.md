@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the
 
 <div align="center">
   <h3>Support Me</h3>
-  <a href="https://www.buymeacoffee.com/mosalam05"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250"/> </a>
+  <a href="https://www.buymeacoffee.com/mosalam05"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/> </a>
 </div>
 
 </ul>
