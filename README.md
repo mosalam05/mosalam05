@@ -9,33 +9,36 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 * 💡  Passionate about **Software Development & Problem-Solving**
 * ✉️  You can contact me at [mostafamosalam05@gmail.com](mailto:mostafamosalam05@gmail.com)
 
-<a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+Skills
+-----------
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
-### Socials
+Socials
+-------
 
 <p align="left">
   <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.linkedin.com/in/mosalam05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### Badges
+My GitHub Stats
+-------------------
+<p align="center">
+  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="200" height="38" /> </a>
+</p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mosalam05"><img src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mosalam05's GitHub stats" /></a>
-
-<a href="https://github.com/mosalam05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalam05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&theme=radical" /> </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalam05&layout=compact&theme=radical" /> </a>
+</p>
 
 <div align="center">
   <h3>Support Me</h3>
