@@ -5,7 +5,7 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 --------------------------------------------------------------
 
 * 📍  From Ismailia, Egypt
-* 🎓  Studying Computer Science @Suez Canal University
+* 🎓  Studying Computer Science [@Suez Canal University](https://suez.edu.eg/)
 * 💡  Passionate about **Software Development & Problem-Solving**
 * ✉️  You can contact me at [mostafamosalam05@gmail.com](mailto:mostafamosalam05@gmail.com)
 
