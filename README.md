@@ -1,5 +1,5 @@
-Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mostafa Mosalam
-========================================================================================================================================
+Hey there! !<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="50" height="50"> I'm Mostafa Mosalam
+==========================================================================================================================================================================================================================
 
 🚀 Aspiring Software Engineer | Computer Science Enthusiast 🔥 
 --------------------------------------------------------------
