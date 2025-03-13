@@ -1,4 +1,4 @@
-Hey there! !<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="50" height="50"> I'm Mostafa Mosalam
+Hey there !<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="50" height="50"> I'm Mostafa Mosalam
 ==========================================================================================================================================================================================================================
 
 🚀 Aspiring Software Engineer | Computer Science Enthusiast 🔥 
@@ -32,15 +32,15 @@ My GitHub Stats
 -------------------
 
 <p align="center">
+  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=mosalam05&style=flat-square" width="180" height="37" /> </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&theme=radical" /> </a>
   <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalam05&layout=compact&theme=radical" /> </a>
 </p>
 
-<p align="center">
-  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/mosalam05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="200" height="38" /> </a>
-</p>
 <hr>
-
 <div align="center">
   <h3>Support Me</h3>
   <a href="https://www.buymeacoffee.com/mosalam05"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/> </a>
