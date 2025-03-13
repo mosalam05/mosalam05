@@ -32,7 +32,7 @@ My GitHub Stats
 -------------------
 
 <p align="center">
-  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=mosalam05&style=flat-square" width="180" height="37" /> </a>
+  <a href="https://www.github.com/mosalam05" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=mosalam05&style=flat-square" width="150" height="30" /> </a>
 </p>
 
 <p align="center">
