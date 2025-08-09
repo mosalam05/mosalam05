@@ -36,7 +36,7 @@ My GitHub Stats
 </p>
 
 <p align="center">
-  <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&theme=radical" /> </a>
+  <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=mosalam05&show_icons=true&theme=radical&count_private=true&cache_seconds=1" /> </a>
   <a href="https://github.com/mosalam05"> <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalam05&layout=compact&theme=radical&count_private=true&cache_seconds=1" /> </a>
 </p>
 
