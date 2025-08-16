@@ -9,16 +9,6 @@
 </h3>
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Light.svg" />
-    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Dark.svg" />
-  </picture>
-</p>
-
-
-
 Skills
 ---
 
@@ -93,4 +83,13 @@ My GitHub Stats
       <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Socials/GitHub-Dark.svg" width="40" height="40" alt="GitHub" title= "GitHub"/>
     </picture>
   </a>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Light.svg" />
+    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Gifs/Pacman-Dark.svg" />
+  </picture>
 </p>
