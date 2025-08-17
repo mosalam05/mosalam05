@@ -38,10 +38,10 @@ Skills
     <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Version-Control/GitHub.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Design-Tools/Photoshop.svg" width="40" height="40" alt="Photoshop"/>
+    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Design-Tools/Photoshop.svg" width="40" height="40" alt="Photoshop" title= "Photoshop"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Design-Tools/Illustrator.svg" width="40" height="40" alt="Illustrator"/>
+    <img src="https://raw.githubusercontent.com/mosalam05/mosalam05/main/assets/images/Design-Tools/Illustrator.svg" width="40" height="40" alt="Illustrator" title= "Illustrator"/>
   </a>
 </p>
 
