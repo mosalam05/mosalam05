@@ -1,11 +1,10 @@
 <h1 align="center">
-  Hello, World! 
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="40" height="40"/>  
-  I'm Mostafa Mosalam
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+World!%F0%9F%91%8B;I'm+Mostafa+Mosalam" />
 </h1>
 
 <h3 align="center">
-  CS Student 🎓 | Flutter Mobile Development Enthusiast 📱 | Graphic Designer 🎨
+  An enthusiastic Computer Science student with a strong passion for technology, problem-solving, and creative design.  
+  Currently building a strong foundation in OOP, Data Structures, and Algorithms, while exploring Flutter to merge my technical and design skills into creating beautiful, user-friendly apps.  
 </h3>
 
 
